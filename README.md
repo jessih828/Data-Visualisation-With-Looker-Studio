@@ -1,7 +1,7 @@
 # Data Visualization Using Looker Studio
 
 ## Overview
-This is my first data visualizations project using Looker Studio. The dataset, Amason Sales Dataset, is sourced from Kaggle and has been cleaned and enhanced with simulated (fake) data. This addition aims to enrich the visualizations and provide a more robust analysis.
+This is my first data visualizations project using Looker Studio. The dataset, Amason Sales Dataset, is sourced from Kaggle and has been cleaned and enhanced with simulated data. This addition aims to enrich the visualizations and provide a more robust analysis.
 
 ## Objective
 The main objective of this project is to turn the Amazon Sales Data into insightful and informative visualizations. These visualizations are aimed potentially discover key business problem and helped discovering effective solutions. The analyses cover topics such as product performance by category, discount strategy effectiveness, customer satisfaction, geographical sales trends.
@@ -16,6 +16,4 @@ The main objective of this project is to turn the Amazon Sales Data into insight
 
 Your feedback and insights are highly welcomed and valued. Feel free to reach out to me! 
 
-## Contact Me
-- [Jessica Hsieh](www.linkedin.com/in/hsieh-jessica)
 
